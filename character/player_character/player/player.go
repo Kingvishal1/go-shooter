@@ -1,4 +1,4 @@
-package player_character
+package player
 
 const HEALTHBAR = 10
 

@@ -1,4 +1,4 @@
-package player_character
+package player
 
 import (
     "github.com/stretchr/testify/assert"
